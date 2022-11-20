@@ -46,7 +46,7 @@ public class Problem01 {
 			System.out.println("Saturday");
 			break;
 		case 7 : 
-			System.out.println("Sunady");
+			System.out.println("Sunday");
 			break;
 		
 			
